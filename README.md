@@ -3,6 +3,10 @@
 ## Project overview: 
 The aim of this project  is to increase revenue by using smart data strategies. I’m diving into this mission with skill and accuracy, aiming to bring out the best in the numbers. The future we're aiming for is one where data isn't just facts but the key to success in how to operate, sell, create products, and earn revenue.
 
+
+
+[Click here to view my dashboard](https://app.powerbi.com/groups/me/reports/58057285-8f59-4898-8ca6-18d6ff60326e/ReportSection?experience=power-bi)
+
 ## Exploratory data analysis
 Here I explore the sales data to answer the following questions:
 1. what is the overall monthly and weekly sales trend.
