@@ -5,7 +5,7 @@ The aim of this project  is to increase revenue by using smart data strategies. 
 
 
 
-[Click here to view my dashboard](https://app.powerbi.com/groups/me/reports/58057285-8f59-4898-8ca6-18d6ff60326e/ReportSection?experience=power-bi)
+[Click here to view my dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjYyOTBlOTAtMmNlMS00MzY0LTgwNGYtYWI0ZWQ0MWRlNzdkIiwidCI6IjlmNGVmYWExLTI3N2EtNGE3OS1iN2NmLWUzMDkzYjMyOGU5OSJ9)
 
 ## Exploratory data analysis
 Here I explore the sales data to answer the following questions:
